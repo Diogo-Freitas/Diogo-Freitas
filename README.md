@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://github.com/Diogo-Freitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo-Freitas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Freitas&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
