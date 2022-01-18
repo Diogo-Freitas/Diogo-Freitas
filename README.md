@@ -34,7 +34,7 @@
 ## Aplicar - Planejamento Financeiro
 <div align="center" style="display: inline_block">
   <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149865844-785eee03-c416-4194-89db-353237266b5e.png">
-  <img align="center" width="270" alt="Que-Somos" src="https://user-images.githubusercontent.com/6785738/149865654-937797ca-8f9b-4113-9166-6c97568c4d1a.png">
+  <img align="center" width="270" alt="Que-Somos" src="https://user-images.githubusercontent.com/6785738/149869372-e6747330-a976-4492-b247-3d65947efb5e.png">
   <img align="center" width="270" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149865694-8b462d30-1ffa-4ac0-ba23-61ebe11808e1.png">
 </div>
 
@@ -53,5 +53,4 @@
   <img align="center" width="270" alt="Serviços" src="https://user-images.githubusercontent.com/6785738/149867630-e101a9ba-cc55-4347-9813-b51cfb82b0ab.png">
   <img align="center" margin-top="0" width="270" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149867940-c55358b7-1fff-4e9e-a8fc-8f4a12577960.png">
 </div>
-
 
