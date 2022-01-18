@@ -21,3 +21,37 @@
 </div>
   
 ![Snake animation](https://github.com/Diogo-Freitas/Diogo-Freitas/blob/output/github-contribution-grid-snake.svg)
+ 
+
+## Hmel - Mel e Produtos Apícola
+<div align="center" style="display: inline_block">
+  <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149863385-fda0a869-45a6-4e10-a09c-7abbda50db59.png">
+  <img align="center" width="270" alt="Produtos" src="https://user-images.githubusercontent.com/6785738/149863439-bd9bb71d-02e0-4dc9-8d3b-5f92fb8dbfe3.png">
+  <img align="center" width="270" alt="Profile" src="https://user-images.githubusercontent.com/6785738/149863481-45d513e9-5c42-40e6-b1e5-b793edbbeb57.png">
+</div>
+
+
+## Aplicar - Planejamento Financeiro
+<div align="center" style="display: inline_block">
+  <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149865844-785eee03-c416-4194-89db-353237266b5e.png">
+  <img align="center" width="270" alt="Que-Somos" src="https://user-images.githubusercontent.com/6785738/149865654-937797ca-8f9b-4113-9166-6c97568c4d1a.png">
+  <img align="center" width="270" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149865694-8b462d30-1ffa-4ac0-ba23-61ebe11808e1.png">
+</div>
+
+
+## Madeireira Montes Claros
+<div align="center" style="display: inline_block">
+  <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149868534-9ebb0020-a3b3-481d-80dc-aaf3b87a1d6f.png">
+  <img align="center" width="270" alt="Empresa" src="https://user-images.githubusercontent.com/6785738/149868557-1994aaa3-f09c-4356-8302-c32761e94483.png">
+  <img align="center" width="270" alt="Serviços" src="https://user-images.githubusercontent.com/6785738/149868587-03aa65f3-6a6b-4076-88a2-3f6291f3ac2e.png">
+</div>
+  
+
+## Contrutora CONNAGE
+<div align="center" style="display: inline_block">
+  <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149867599-35340240-2023-413e-a851-46fdd0baddd0.png">
+  <img align="center" width="270" alt="Serviços" src="https://user-images.githubusercontent.com/6785738/149867630-e101a9ba-cc55-4347-9813-b51cfb82b0ab.png">
+  <img align="center" margin-top="0" width="270" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149867940-c55358b7-1fff-4e9e-a8fc-8f4a12577960.png">
+</div>
+
+
