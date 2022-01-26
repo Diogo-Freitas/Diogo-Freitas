@@ -6,29 +6,29 @@
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
