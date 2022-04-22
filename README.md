@@ -27,10 +27,7 @@
   &nbsp;&nbsp;
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-  
-![Snake animation](https://github.com/Diogo-Freitas/Diogo-Freitas/blob/output/github-contribution-grid-snake.svg)
  
-
 ## Hmel - Mel e Produtos Apícola
 <div align="center" style="display: inline_block">
   <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149863385-fda0a869-45a6-4e10-a09c-7abbda50db59.png">
