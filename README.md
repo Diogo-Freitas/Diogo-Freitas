@@ -1,18 +1,14 @@
-# Olá, eu sou Diogo Freitas! 👋
+# Olá! Eu sou Diogo Freitas 👋
 
-🎓 **Bacharelado em Sistemas de Informação - Universidade Estadual de Montes Claros (UNIMONTES).**
+
 
 ### Desenvolvedor Full Stack (PHP/Laravel)
 
-Sou desenvolvedor full stack com sólida experiência no desenvolvimento de aplicações web e arquitetura Multi-Tenant
-SaaS, utilizando PHP, Laravel, HTML, CSS, jQuery, Ajax e Vue.js.
+Sou Desenvolvedor Full Stack, com sólida experiência no desenvolvimento de aplicações web, APIs RESTful e soluções multiplataforma, com foco em PHP e Laravel. Experiência em arquitetura e desenvolvimento de sistemas, incluindo soluções SaaS Multi-Tenant, modelagem de dados, integração entre sistemas, otimização de consultas SQL e melhoria de desempenho em bancos de dados MySQL e PostgreSQL.
 
-Experiência no desenvolvimento e manutenção de
-APIs RESTful e SOAP, integração com sistemas internos e serviços de terceiros, além de modelagem, otimização e
-gerenciamento de bancos de dados MySQL e PostgreSQL.
+Atuação no desenvolvimento de aplicações móveis para Android e iOS utilizando Flutter, bem como na implementação de soluções escaláveis, seguras e de fácil manutenção, aplicando boas práticas de desenvolvimento, padrões de projeto e princípios de arquitetura de software.
 
-Atuação em práticas de DevOps com Docker e CI/CD, testes automatizados com PHPUnit e Pest e desenvolvimento
-de aplicações mobile para Android e iOS utilizando Flutter. Seguindo os princípios de Clean Code e boas práticas.
+🎓 **Bacharelado em Sistemas de Informação - Universidade Estadual de Montes Claros (UNIMONTES).**
 
 ---
 
