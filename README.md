@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack (PHP/Laravel)
 
-Com sólida experiência no desenvolvimento de aplicações web e arquitetura Multi-Tenant
+Sou desenvolvedor full stack com sólida experiência no desenvolvimento de aplicações web e arquitetura Multi-Tenant
 SaaS, utilizando PHP, Laravel, HTML, CSS, jQuery, Ajax e Vue.js.
 
 Experiência no desenvolvimento e manutenção de
