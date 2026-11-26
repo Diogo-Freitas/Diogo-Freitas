@@ -82,39 +82,39 @@ Atuação no desenvolvimento de aplicações móveis para Android e iOS utilizan
 #### [Meu Controle Financeiro](https://meucontrolefinanceiro.com)
 
 <div align="center" style="display: inline_block">
-  <img align="center" width="275" alt="Home" src="https://github.com/user-attachments/assets/65854358-9eb6-4be9-a862-64f994aef2a7">
-  <img align="center" width="275" alt="Recursos" src="https://github.com/user-attachments/assets/291e2b97-68c9-4118-b70c-be051123407a">
-  <img align="center" width="275" alt="Dashboard" src="https://github.com/user-attachments/assets/98dd8354-4167-46b5-88fd-2f43788a583a">
+  <img align="center" width="276" alt="Home" src="https://github.com/user-attachments/assets/65854358-9eb6-4be9-a862-64f994aef2a7">
+  <img align="center" width="276" alt="Recursos" src="https://github.com/user-attachments/assets/291e2b97-68c9-4118-b70c-be051123407a">
+  <img align="center" width="276" alt="Dashboard" src="https://github.com/user-attachments/assets/98dd8354-4167-46b5-88fd-2f43788a583a">
 </div>
 
 #### [Hmel - Mel e Produtos Apícola](https://hmel.com.br)
 
 <div align="center" style="display: inline_block">
-  <img align="center" width="275" alt="Home" src="https://user-images.githubusercontent.com/6785738/149863385-fda0a869-45a6-4e10-a09c-7abbda50db59.png">
-  <img align="center" width="275" alt="Produtos" src="https://user-images.githubusercontent.com/6785738/149863439-bd9bb71d-02e0-4dc9-8d3b-5f92fb8dbfe3.png">
-  <img align="center" width="275" alt="Profile" src="https://user-images.githubusercontent.com/6785738/149863481-45d513e9-5c42-40e6-b1e5-b793edbbeb57.png">
+  <img align="center" width="276" alt="Home" src="https://user-images.githubusercontent.com/6785738/149863385-fda0a869-45a6-4e10-a09c-7abbda50db59.png">
+  <img align="center" width="276" alt="Produtos" src="https://user-images.githubusercontent.com/6785738/149863439-bd9bb71d-02e0-4dc9-8d3b-5f92fb8dbfe3.png">
+  <img align="center" width="276" alt="Profile" src="https://user-images.githubusercontent.com/6785738/149863481-45d513e9-5c42-40e6-b1e5-b793edbbeb57.png">
 </div>
 
 #### [Aplicar - Planejamento Financeiro](https://diogofreitas.com.br)
 
 <div align="center" style="display: inline_block">
-  <img align="center" width="275" alt="Home" src="https://user-images.githubusercontent.com/6785738/149865844-785eee03-c416-4194-89db-353237266b5e.png">
-  <img align="center" width="275" alt="Que-Somos" src="https://user-images.githubusercontent.com/6785738/149869372-e6747330-a976-4492-b247-3d65947efb5e.png">
-  <img align="center" width="275" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149865694-8b462d30-1ffa-4ac0-ba23-61ebe11808e1.png">
+  <img align="center" width="276" alt="Home" src="https://user-images.githubusercontent.com/6785738/149865844-785eee03-c416-4194-89db-353237266b5e.png">
+  <img align="center" width="276" alt="Que-Somos" src="https://user-images.githubusercontent.com/6785738/149869372-e6747330-a976-4492-b247-3d65947efb5e.png">
+  <img align="center" width="276" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149865694-8b462d30-1ffa-4ac0-ba23-61ebe11808e1.png">
 </div>
 
 #### [Madeireira Montes Claros](https://diogofreitas.com.br)
 
 <div align="center" style="display: inline_block">
-  <img align="center" width="275" alt="Home" src="https://user-images.githubusercontent.com/6785738/149868534-9ebb0020-a3b3-481d-80dc-aaf3b87a1d6f.png">
-  <img align="center" width="275" alt="Empresa" src="https://user-images.githubusercontent.com/6785738/149868557-1994aaa3-f09c-4356-8302-c32761e94483.png">
-  <img align="center" width="275" alt="Serviços" src="https://user-images.githubusercontent.com/6785738/149868587-03aa65f3-6a6b-4076-88a2-3f6291f3ac2e.png">
+  <img align="center" width="276" alt="Home" src="https://user-images.githubusercontent.com/6785738/149868534-9ebb0020-a3b3-481d-80dc-aaf3b87a1d6f.png">
+  <img align="center" width="276" alt="Empresa" src="https://user-images.githubusercontent.com/6785738/149868557-1994aaa3-f09c-4356-8302-c32761e94483.png">
+  <img align="center" width="276" alt="Serviços" src="https://user-images.githubusercontent.com/6785738/149868587-03aa65f3-6a6b-4076-88a2-3f6291f3ac2e.png">
 </div>
 
 #### [Contrutora CONNAGE](https://diogofreitas.com.br)
 
 <div align="center" style="display: inline_block">
-  <img align="center" width="275" alt="Home" src="https://user-images.githubusercontent.com/6785738/149867599-35340240-2023-413e-a851-46fdd0baddd0.png">
-  <img align="center" width="275" alt="Serviços" src="https://user-images.githubusercontent.com/6785738/149867630-e101a9ba-cc55-4347-9813-b51cfb82b0ab.png">
-  <img align="center" margin-top="0" width="275" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149867940-c55358b7-1fff-4e9e-a8fc-8f4a12577960.png">
+  <img align="center" width="276" alt="Home" src="https://user-images.githubusercontent.com/6785738/149867599-35340240-2023-413e-a851-46fdd0baddd0.png">
+  <img align="center" width="276" alt="Serviços" src="https://user-images.githubusercontent.com/6785738/149867630-e101a9ba-cc55-4347-9813-b51cfb82b0ab.png">
+  <img align="center" margin-top="0" width="276" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149867940-c55358b7-1fff-4e9e-a8fc-8f4a12577960.png">
 </div>
