@@ -79,7 +79,15 @@ Atuação no desenvolvimento de aplicações móveis para Android e iOS utilizan
 
 ### 🚀 Projetos
 
-#### Hmel - Mel e Produtos Apícola
+### [Meu Controle Financeiro](https://meucontrolefinanceiro.com)
+
+<div align="center" style="display: inline_block">
+  <img align="center" width="270" alt="Home" src="https://github.com/user-attachments/assets/65854358-9eb6-4be9-a862-64f994aef2a7">
+  <img align="center" width="270" alt="Recursos" src="https://github.com/user-attachments/assets/291e2b97-68c9-4118-b70c-be051123407a">
+  <img align="center" width="270" alt="Dashboard" src="https://github.com/user-attachments/assets/98dd8354-4167-46b5-88fd-2f43788a583a">
+</div>
+
+#### [Hmel - Mel e Produtos Apícola](https://hmel.com.br)
 
 <div align="center" style="display: inline_block">
   <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149863385-fda0a869-45a6-4e10-a09c-7abbda50db59.png">
@@ -87,7 +95,7 @@ Atuação no desenvolvimento de aplicações móveis para Android e iOS utilizan
   <img align="center" width="270" alt="Profile" src="https://user-images.githubusercontent.com/6785738/149863481-45d513e9-5c42-40e6-b1e5-b793edbbeb57.png">
 </div>
 
-#### Aplicar - Planejamento Financeiro
+#### [Aplicar - Planejamento Financeiro](https://diogofreitas.com.br)
 
 <div align="center" style="display: inline_block">
   <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149865844-785eee03-c416-4194-89db-353237266b5e.png">
@@ -95,7 +103,7 @@ Atuação no desenvolvimento de aplicações móveis para Android e iOS utilizan
   <img align="center" width="270" alt="Contato" src="https://user-images.githubusercontent.com/6785738/149865694-8b462d30-1ffa-4ac0-ba23-61ebe11808e1.png">
 </div>
 
-#### Madeireira Montes Claros
+#### [Madeireira Montes Claros](https://diogofreitas.com.br)
 
 <div align="center" style="display: inline_block">
   <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149868534-9ebb0020-a3b3-481d-80dc-aaf3b87a1d6f.png">
@@ -103,7 +111,7 @@ Atuação no desenvolvimento de aplicações móveis para Android e iOS utilizan
   <img align="center" width="270" alt="Serviços" src="https://user-images.githubusercontent.com/6785738/149868587-03aa65f3-6a6b-4076-88a2-3f6291f3ac2e.png">
 </div>
 
-#### Contrutora CONNAGE
+#### [Contrutora CONNAGE](https://diogofreitas.com.br)
 
 <div align="center" style="display: inline_block">
   <img align="center" width="270" alt="Home" src="https://user-images.githubusercontent.com/6785738/149867599-35340240-2023-413e-a851-46fdd0baddd0.png">
